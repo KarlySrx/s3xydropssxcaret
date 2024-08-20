@@ -101,9 +101,9 @@ class Scraper:
         app.run()
 
 if __name__ == "__main__":
-    id = 27681377
-    hash = '43f342537ee796353a06c6b7b6931c57'
-    chat = '@dbsiruxccs'
+    id = 19831337
+    hash = '8a3cde1abe3fd1ab32a2cfe418b89f2a'
+    chat = '@xcaretccdrop'
     chats = [
         '@scrapperlala', '@ritagroupOfc', '@OficialScorpionsGrupo','@JohnnySinsChat','@freeusersdev','@alterchkchat','@BINEROS_CCS2'
     ]
